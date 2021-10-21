@@ -6,7 +6,6 @@
   padding: 0;
   list-style: none;
   .tags-item {
-    color: $gainsboro;
     margin: 5px;
   }
   .tags-link {
@@ -16,7 +15,7 @@
     border-radius: 4px;
     color: $gainsboro;
     font-weight: 700;
-    background: $dim-gray;
+    background: $blue-black;
     &:hover {
       color: $white;
       background: $primary-color;      
