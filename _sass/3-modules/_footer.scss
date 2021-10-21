@@ -50,11 +50,11 @@
     p {
       margin-bottom: 0;
       font-size: 13px;
-      color: $gray-blue;
+      color: $light-gray;
       a {
-        color: $gray-blue;
+        color: $light-gray;
         &:hover {
-          color: $primary-color;
+          color: $white-somke;
         }
       }
     }
@@ -70,10 +70,10 @@
         a {
           font-size: 13px;
           font-weight: bold;
-          color: $gray-blue;
+          color: $light-gray;
           transition: $global-transition;
           &:hover {
-            color: $primary-color;
+            color: $white-somke;
           }
         }
       }
