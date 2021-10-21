@@ -49,6 +49,7 @@
 }
 
 .menu-list {
+  margin: 5% auto 0;
   max-width: 750px;
   width: 100%;
   padding: 15px;
@@ -59,7 +60,7 @@
   }
   .menu-link {
     position: relative;
-    font-size: 18px;
+    font-size: 30px;
     font-weight: 700;
     font-family: $base-font-family;
     line-height: 60px;
