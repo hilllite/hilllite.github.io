@@ -1,7 +1,7 @@
 // Header
 .header {
   margin-bottom: 50px;
-  background: $black;
+  background: $blue-darken;
 }
 
 .header, .header-box {
@@ -15,9 +15,9 @@
   align-items: center;
   .logo-title {
     .logo-text {
-      font-size: 16px;
+      font-size: 18px;
       font-weight: 700;
-      line-height: 16px;
+      line-height: 18px;
       text-transform: uppercase;
       letter-spacing: 5px;
       color: $text;
