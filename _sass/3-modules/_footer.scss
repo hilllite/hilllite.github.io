@@ -18,7 +18,7 @@
     line-height: 18px;
     text-transform: uppercase;
     letter-spacing: 5px;
-    color: $light-gray;
+    color: $gainsboro;
     &:hover {
       color: $white-somke;
     }
@@ -50,9 +50,9 @@
     p {
       margin-bottom: 0;
       font-size: 13px;
-      color: $light-gray;
+      color: $gainsboro;
       a {
-        color: $light-gray;
+        color: $gainsboro;
         &:hover {
           color: $white-somke;
         }
@@ -70,7 +70,7 @@
         a {
           font-size: 13px;
           font-weight: bold;
-          color: $light-gray;
+          color: $gainsboro;
           transition: $global-transition;
           &:hover {
             color: $white-somke;
