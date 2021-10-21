@@ -20,7 +20,7 @@
       line-height: 18px;
       text-transform: uppercase;
       letter-spacing: 5px;
-      color: $light-gray;
+      color: $gainsboro;
       &:hover {
         color: $white-somke;
       }
@@ -63,7 +63,7 @@
     font-size: 30px;
     font-weight: 700;
     line-height: 60px;
-    color: $text;
+    color: $gainsboro;
     &:before {
       content: '';
       position: absolute;
