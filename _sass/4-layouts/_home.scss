@@ -171,10 +171,10 @@
       width: 100%;
       padding: 15px;
       font-size: 21px;
-      color: $white;
+      color: $text;
       white-space: normal;
       &:hover {
-        color: $text;
+        color: $light-gray;
       }
     }
   }
