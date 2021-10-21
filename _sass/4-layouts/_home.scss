@@ -150,10 +150,10 @@
     font-weight: 700;
     letter-spacing: 2px;
     text-transform: uppercase;
-    color: #c1c1c7;
-    background: #4f505d;
+    color: $gainsboro;
+    background: $gray;
     &::placeholder {
-      color: #c1c1c7;
+      color: $gainsboro;
     }
   }
 }
@@ -174,7 +174,7 @@
       color: $white;
       white-space: normal;
       &:hover {
-        color: $gray-blue;
+        color: $text;
       }
     }
   }
