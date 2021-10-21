@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 关于
-image: sentence_trans.png
+image: sentence_red_trans.png
 permalink: /about/
 ---
 
