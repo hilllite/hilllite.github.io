@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 关于
+title: 品牌
 image: sentence_red.jpg
-permalink: /about/
+permalink: /brand/
 ---
 
 我们是**来秋**，名字来源于唐代诗人王维所作《山居秋暝》，“空山新雨后，天气晚来秋”。
