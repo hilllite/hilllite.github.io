@@ -209,20 +209,20 @@
     .article-tag {
       .tag {
         color: $white;
-        font-size: 12px;
+        font-size: 14px;
       }
     }
     .article-date {
       .date {
-        font-size: 12px;
+        font-size: 14px;
         color: rgba($light-gray, .8);
       }
     }
     .article-title {
       margin-bottom: 20px;
-      font-size: 50px;
+      font-size: 70px;
       font-weight: 700;
-      line-height: 50px;
+      line-height: 70px;
       font-weight: normal;
       a {
         color: $white;
@@ -415,7 +415,7 @@
 @media only screen and (min-width: 768px) {
   .article-first {
     .article-content-first {
-      padding: 60px 15% 0;
+      padding: 60px 14% 0;
     }
   }
 }
