@@ -163,7 +163,7 @@
   padding: 15px;
   background: $gainsboro;
   &:hover {
-    background: darken(#26272B, 3%);
+    background: darken($light-gray, 3%);
     .post-nav-title {
       color: $primary-color;
       transition: $global-transition;
