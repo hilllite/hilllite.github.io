@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 品牌
-image: muntain_living.jpg
+image: brand.jpg
 permalink: /brand/
 ---
 
