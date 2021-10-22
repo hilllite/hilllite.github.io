@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 风格指引
+title: 指引
 permalink: /styleguide/
 image: 11.jpg
 ---
