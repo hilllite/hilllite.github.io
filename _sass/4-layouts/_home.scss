@@ -117,7 +117,7 @@
 .nav-buttons i.ion {
   transition: color $global-transition;
   &:hover {
-    color: #fff;
+    color: $light-gray;
   }
 }
 
