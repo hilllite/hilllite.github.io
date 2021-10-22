@@ -204,7 +204,7 @@
     }
   }
   .article-content-first {
-    padding: 20px 100px;
+    padding: 20px;
     color: $white;
     .article-tag {
       .tag {
@@ -415,7 +415,7 @@
 @media only screen and (min-width: 768px) {
   .article-first {
     .article-content-first {
-      padding: 60px 40px 0;
+      padding: 60px 20% 0;
     }
   }
 }
