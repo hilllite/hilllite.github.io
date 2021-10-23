@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: 来秋 | 空山新雨后 天气晚来秋
-description: 来秋是一个生活方式，我们追求简单，舒适和温暖，专注服装设计，坚持手工制作。 # this means to ignore newlines until "baseurl:"
+description: 来秋是一个生活方式，我们追求简单，舒适和温暖的体验，专注服装设计，坚持手工制作。 # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 site-name: 来秋
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
