@@ -19,7 +19,7 @@ Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercat
 Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
 
 {:refdef: style="text-align: center;"}
-![]({{site.baseurl}}/img/autumnon_logo_trans.png){:height="100px" width="100px"}
+![]({{site.baseurl}}/img/autumnon_logo_trans.png){:height="150px" width="150px"}
 {: refdef}
 
 #### La croix you probably...
