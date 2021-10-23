@@ -7,7 +7,7 @@ layout: default
 			<div class="page-image-box">
 				<div class="page-image" style="background-image: url({{"/img/" | prepend: site.baseurl | append : page.image}})">
 					{% if page.operation.size >= 1 %}
-					<div class="page-operate">
+					<div class="col col-12 page-operate">
 						<a href="{{ post.url | prepend: site.baseurl }}" class="button read-more">{{page.operation}}</a>
 					</div>
 					{% endif %}
