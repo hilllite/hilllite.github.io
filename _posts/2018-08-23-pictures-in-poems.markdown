@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  诗中有画 画中有诗 - 王维
+title:  诗中有画 画中有诗
 date:   2018-08-23 16:02:00 +0300
 image:  wangchuan_01.jpg
 tags:   [王维, 诗, 山水]
