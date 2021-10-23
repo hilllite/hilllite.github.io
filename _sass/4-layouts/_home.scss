@@ -256,11 +256,6 @@
   overflow: hidden;
 }
 
-.product-box .product-image {
-  position: relative;
-  transition: all 1s cubic-bezier(0.6, 0.3, 0, 1);
-}
-
 .product-box.reveal-in .product-image {
   opacity: 1;
 }
