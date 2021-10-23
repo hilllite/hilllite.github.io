@@ -17,7 +17,7 @@ permalink: /brand/
 
 
 {:refdef: style="text-align: center;"}
-![]({{site.baseurl}}/img/moon.jpg){:width="600px"}
+![]({{site.baseurl}}/img/moon.jpg){:width="800px"}
 {: refdef}
 
 #### 理念
