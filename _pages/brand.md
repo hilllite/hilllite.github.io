@@ -15,7 +15,7 @@ permalink: /brand/
 
 我们设计了来秋的图标（logo），它是一个介于望月和下弦月之间的一个月相。底下的白色横条形成了光影，你可以认为它是水流也可以认为它是斑驳的竹林。
 
-![]({{site.baseurl}}/img/moon.png)
+![]({{site.baseurl}}/img/moon.jpg)
 
 #### 理念
 
