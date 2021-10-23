@@ -40,7 +40,7 @@
   bottom: 0;
   transform: scale(.5);
   z-index: -1;
-  background: $white-somke;
+  background: $dim-gray;
   overflow-y: auto;
   opacity: 0;
   &.active {
