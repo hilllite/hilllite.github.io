@@ -256,6 +256,16 @@
   overflow: hidden;
 }
 
+.article-box .article-image {
+  position: relative;
+  opacity: 0;
+  transition: all 1s cubic-bezier(0.6, 0.3, 0, 1);
+}
+
+.article-box.reveal-in .article-image {
+  opacity: 1;
+}
+
 // Articles
 .article-first {
   margin-bottom: 30px;
