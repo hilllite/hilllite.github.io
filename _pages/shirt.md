@@ -6,7 +6,7 @@ image: male_shirt.jpg
 operation: 去购买 
 operation-url: /to-purchase
 ---
-A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
+选择衬衫作为我们的第一款产品，不仅仅是因为它足够简单。
 
 ### Headings by default:
 
