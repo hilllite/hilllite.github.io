@@ -251,18 +251,18 @@
   }
 }
 
-.prduct-box {
+.product-box {
   position: relative;
   overflow: hidden;
 }
 
-.article-box .article-image {
+.product-box .product-image {
   position: relative;
   opacity: 0;
   transition: all 1s cubic-bezier(0.6, 0.3, 0, 1);
 }
 
-.article-box.reveal-in .article-image {
+.product-box.reveal-in .product-image {
   opacity: 1;
 }
 
