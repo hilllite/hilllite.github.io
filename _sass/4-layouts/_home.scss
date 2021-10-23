@@ -186,40 +186,6 @@
   }
 }
 
-// products
-.product {
-  display: flex;
-  margin-bottom: 25px;
-  .product-box {
-    padding-bottom: 20px;
-    border-bottom: 2px solid $border-color;
-  }
-  .product-head {
-    background: $gainsboro;
-  }
-  .product-image {
-    position: relative;
-    opacity: 1;
-    display: block;
-    margin-bottom: 20px;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-color: $white-somke;
-    box-shadow: 0 9px 18px 0 rgba(0, 0, 0, .25);
-    &:before {
-      content: "";
-      display: table;
-      padding-top: 75%;
-    }
-  }
-}
-
-.product-box {
-  position: relative;
-  overflow: hidden;
-}
-
 // Articles
 .article-first {
   margin-bottom: 30px;
