@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  玉暖生烟 - 蓝田
+title:  玉暖生烟
 date:   2018-08-23 16:03:00 +0300
 image:  lantian_01.jpg
 tags:   [蓝田, 诗]
