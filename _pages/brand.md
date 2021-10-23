@@ -13,11 +13,18 @@ permalink: /brand/
 ![]({{site.baseurl}}/img/autumnon_logo_trans.png){:height="150px" width="150px"}
 {: refdef}
 
-我们设计了来秋的图标（logo），它是一个介于望月和下弦月之间的一个月相（凸月）。底下的白色横条形成了光影，你可以认为它是水流也可以认为它是斑驳的竹林。如果只看深色部分，你可以看到上下山水相连。而如果只看浅色部分，有一种“海上生明月”的意境，这些对我们借此表达中国古代诗歌意象具有很深刻的意义。
+我们设计了来秋的图标（logo），它是一个介于望月和下弦月之间的一个月相（凸月）。底下的白色横条形成了光影，你可以认为它是水流也可以认为它是斑驳的竹林。
 
+如果只看深色部分，你可以看到上下山水相连。而如果只看浅色部分，有一种“海上生明月”的意境，这些对我们借此表达中国古代诗歌意象具有很深刻的意义。
 
 {:refdef: style="text-align: center;"}
 ![]({{site.baseurl}}/img/moon.jpg){:width="800px"}
+{: refdef}
+
+来秋图标的设计稿如下：
+
+{:refdef: style="text-align: center;"}
+![]({{site.baseurl}}/img/logo_design.jpg)
 {: refdef}
 
 #### 理念
