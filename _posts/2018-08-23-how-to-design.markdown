@@ -2,7 +2,7 @@
 layout: post
 title:  怎样做设计
 date:   2018-08-23 16:04:00 +0300
-image:  03.jpg
+image:  design_01.jpg
 tags:   [设计]
 ---
 设计无处不在。
