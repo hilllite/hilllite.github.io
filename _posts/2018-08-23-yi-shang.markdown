@@ -2,7 +2,7 @@
 layout: post
 title:  衣，裳
 date:   2018-08-23 16:04:55 +0300
-image:  02.jpg
+image:  yishang_01.jpg
 tags:   [衣裳]
 ---
 上衣下裳。
