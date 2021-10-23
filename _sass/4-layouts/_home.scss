@@ -189,6 +189,66 @@
 // products
 .product-item {
   display: flex;
+  margin-bottom: 25px;
+  &:hover {
+    .product-image {
+      .image-overlay-text {
+        opacity: 1;
+      }
+    }
+    .product-image {
+      .image-overlay {
+        opacity: .5;
+        width: 100%;
+      }
+    }
+  }
+  .product-box {
+    padding-bottom: 20px;
+    border-bottom: 2px solid $border-color;
+  }
+  .product-head {
+    background: $gainsboro;
+  }
+  .article-image {
+    position: relative;
+    display: block;
+    margin-bottom: 20px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: $white-somke;
+    box-shadow: 0 9px 18px 0 rgba(0, 0, 0, .25);
+    &:before {
+      content: "";
+      display: table;
+      padding-top: 75%;
+    }
+    .image-overlay {
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      width: 0;
+      height: 100%;
+      background-color: rgba($white-somke, 0.85);
+      opacity: 0;
+      transition: all 0.4s ease;
+    }
+    .image-overlay-text {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      font-size: 110px;
+      text-align: center;
+      letter-spacing: 2px;
+      color: $text;
+      transform: translate(-50%,-50%);
+      transition: all 0.4s ease 0.3s;
+      opacity: 0;
+    }
+  }
 }
 
 // Articles
@@ -279,7 +339,7 @@
     border-bottom: 2px solid $border-color;
   }
   .article-head {
-    background: $gainsboro;
+    background: $black;
   }
   .article-image {
     position: relative;
