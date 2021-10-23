@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "这是一个新旅途的开始"
+title:  "这是一个新旅途"
 date:   2018-05-29 18:05:55 +0300
 image:  new_journey.jpg
 tags:   [新旅途]
