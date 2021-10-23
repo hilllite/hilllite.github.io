@@ -4,6 +4,8 @@
 }
 
 .page-image-box {
+  position: relative;
+  display: flex;
   background: $black;
   &.reveal-in {
     .page-image {
