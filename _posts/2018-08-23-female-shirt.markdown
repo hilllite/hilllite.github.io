@@ -2,7 +2,7 @@
 layout: post
 title:  女士衬衫
 date:   2018-08-23 16:04:56 +0300
-image:  yishang_01_sm.jpg
+image:  male_shirt.jpg
 tags:   [衣裳]
 ---
 上衣下裳。
