@@ -4,6 +4,8 @@ title: 指引
 permalink: /styleguide/
 image: 11.jpg
 ---
+由于我们的网站还在建设中，因此保留了这一个页面作为格式指引。
+
 A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
 
 ### Headings by default:
