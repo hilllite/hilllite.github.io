@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 品牌
+title: 公有云
 image: brand.jpg
-permalink: /brand/
+permalink: /cloud/
 ---
 
-我们是**来秋**。
+我们是**公有云**。
 
 我们的名字来源于唐代诗人王维所作《山居秋暝》，“空山新雨后，天气晚来秋”。是王维晚年居住蓝田辋川别业（别墅）时所作。
 
