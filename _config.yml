@@ -1,16 +1,16 @@
 #-------------------------------
 # General Site Settings
 
-title: 来秋 | 空山新雨后 天气晚来秋
-description: 来秋是一个生活方式，我们追求简单，舒适和温暖的体验，专注服装设计，坚持手工制作。 # this means to ignore newlines until "baseurl:"
+title: 空山 | 空山新雨后 天气晚来秋
+description: 空山，关注中国新兴商业环境，做最优质商业观察咨询服务。 # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
-site-name: 来秋
+site-name: 空山
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
 # About Section
-author-name:   来秋
+author-name:   空山
 author-avatar: author_avatar.png
 
 
