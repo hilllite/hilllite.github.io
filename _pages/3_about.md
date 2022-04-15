@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 关于
-permalink: /hilllite/
+permalink: /about/
 image: store_01.jpg
 operation: 去店铺 
 operation-url: /to-store
