@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 店铺
-permalink: /store/
+title: 关于空山
+permalink: /about/
 image: store_01.jpg
 operation: 去店铺 
 operation-url: /to-store
