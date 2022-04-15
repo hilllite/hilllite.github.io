@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 公有云
+title: 观察
 image: brand.jpg
 permalink: /cloud/
 ---
