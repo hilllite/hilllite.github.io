@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 关于空山
-permalink: /about/
+title: 关于
+permalink: /hilllite/
 image: store_01.jpg
 operation: 去店铺 
 operation-url: /to-store
