@@ -2,7 +2,7 @@
 layout: page
 title: 观察
 image: brand.jpg
-permalink: /insight/
+permalink: /insights/
 ---
 
 我们是**公有云**。
