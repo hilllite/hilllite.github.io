@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 新能源车
+title: 新能源
 permalink: /nea/
 image: male_shirt.jpg
 operation: 去购买 
