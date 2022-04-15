@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 新能源
-permalink: /neam/
+title: 分析
+permalink: /analysis/
 image: male_shirt.jpg
 operation: 去购买 
 operation-url: /to-purchase
