@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 新能源
-permalink: /nea/
+permalink: /neam/
 image: male_shirt.jpg
 operation: 去购买 
 operation-url: /to-purchase
