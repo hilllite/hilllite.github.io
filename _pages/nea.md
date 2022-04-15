@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 衬衫
-permalink: /shirt/
+title: 新能源车
+permalink: /nea/
 image: male_shirt.jpg
 operation: 去购买 
 operation-url: /to-purchase
