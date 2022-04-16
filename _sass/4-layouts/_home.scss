@@ -105,8 +105,8 @@
   height: 40px;
   font-size: 40px;
   border-radius: 50%;
-  border: 2px solid $dark-gray;
-  color: $dark-gray;
+  border: 2px solid $dark-blue;
+  color: $dark-blue;
   transition: all $global-transition;
   cursor: pointer;
   &:hover {
@@ -119,7 +119,7 @@
 .nav-buttons i.ion {
   transition: color $global-transition;
   &:hover {
-    color: $dark-gray;
+    color: $dark-blue;
   }
 }
 
@@ -151,7 +151,7 @@
     letter-spacing: 2px;
     text-transform: uppercase;
     color: $gainsboro;
-    background: $dark-gray;
+    background: $dark-blue;
     &::placeholder {
       color: $gainsboro;
     }
@@ -174,7 +174,7 @@
       color: $text;
       white-space: normal;
       &:hover {
-        color: $light-gray;
+        color: $lighten-blue;
       }
     }
   }
@@ -217,7 +217,7 @@
     .article-date {
       .date {
         font-size: 14px;
-        color: rgba($light-gray, .8);
+        color: rgba($lighten-blue, .8);
       }
     }
     .article-title {
