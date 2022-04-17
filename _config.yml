@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Hilllite | 专注新兴市场观察，专业商业咨询服务。
+title: Hilllite
 description: Hilllite，专注新兴市场观察，专业商业咨询服务。 # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 site-name: Hilllite
