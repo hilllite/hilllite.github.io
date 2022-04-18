@@ -1,7 +1,7 @@
 // Header
 .header {
   margin-bottom: 0;
-  background: $lighten-blue;
+  background: $dark-blue;
 }
 
 .header, .header-box {
@@ -65,7 +65,7 @@
     font-size: 30px;
     font-family: $base-font-family;
     line-height: 60px;
-    color: $dark-blue;
+    color: $lighten-blue;
     &:before {
       content: '';
       position: absolute;
