@@ -3,7 +3,7 @@ layout: post
 title:  金山云大事记
 date:   2018-08-23 16:04:00 +0300
 image:  design_01.jpg
-tags:   [云服务，金山云，大事记]
+tags:   [云服务, 金山云, 大事记]
 ---
 金山云成立。
 
