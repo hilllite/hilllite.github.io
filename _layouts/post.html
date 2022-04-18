@@ -13,7 +13,11 @@ layout: default
 
 <div class="container">
 	<div class="row">
+		{% if page.type == "widescreen" %} 
+		<article class="col col-12 post">
+		{% else %} 
 		<article class="col col-12 col-t-8 post">
+		{% endif %}
 			<div class="post-content">
 
 				<div class="post-head">
@@ -98,10 +102,12 @@ layout: default
 				{% include disqus-comments.html %}
 			{% endif %}
 	</article> <!-- /.post -->
-
+	
+	{% if page.type != "widescreen" %}
 	<div class="col col-12 col-t-4">
 		{% include sidebar.html %}
 	</div>
+	{% endif %}
 
 	</div>
 </div>
