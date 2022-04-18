@@ -3,7 +3,7 @@ layout: post
 title:  华为云大事记
 date:   2018-08-23 16:02:00 +0300
 image:  wangchuan_01.jpg
-tags:   [云服务, 华为云, 大事记]
+tags:   [公有云, 华为云, 大事记]
 ---
 华为。
 
