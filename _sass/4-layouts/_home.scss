@@ -110,8 +110,8 @@
   transition: all $global-transition;
   cursor: pointer;
   &:hover {
-    border-color: $text;
-    color: $text;
+    border-color: $gainsboro;
+    color: $gainsboro;
   }
 }
 
@@ -128,7 +128,7 @@
     margin-left: 10px;
     font-size: 20px;
     vertical-align: middle;
-    color: $text;
+    color: $gainsboro;
     cursor: pointer;
     &:first-child {
       margin-left: 0;
