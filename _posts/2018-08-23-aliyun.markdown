@@ -3,7 +3,7 @@ layout: post
 title:  阿里云大事记
 date:   2018-08-23 16:04:55 +0300
 image:  yishang_01_sm.jpg
-tags:   [云服务]
+tags:   [公有云, 阿里云, 大事记]
 ---
 阿里云成立。
 
