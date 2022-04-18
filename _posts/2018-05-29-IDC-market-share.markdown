@@ -3,7 +3,7 @@ layout: post
 title:  "IDC中国公有云市场占有率"
 date:   2018-05-29 18:05:55 +0300
 image:  new_journey.jpg
-tags:   [IDC, 市场占有率]
+tags:   [IDC, 公有云, 市场占有率]
 ---
 这对我来说，一定是一个新的旅程。
 
