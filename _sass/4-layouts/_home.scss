@@ -39,7 +39,7 @@
   bottom: 0;
   transform: scale(.5);
   z-index: -1;
-  background: $middle-blue;
+  background: $gainsboro;
   overflow-y: auto;
   opacity: 0;
   &.active {
@@ -110,8 +110,8 @@
   transition: all $global-transition;
   cursor: pointer;
   &:hover {
-    border-color: $text;
-    color: $text;
+    border-color: $middle-blue;
+    color: $middle-blue;
   }
 }
 
@@ -128,7 +128,7 @@
     margin-left: 10px;
     font-size: 20px;
     vertical-align: middle;
-    color: $text;
+    color: $gainsboro;
     cursor: pointer;
     &:first-child {
       margin-left: 0;
@@ -174,7 +174,7 @@
       color: $text;
       white-space: normal;
       &:hover {
-        color: $lighten-blue;
+        color: $middle-blue;
       }
     }
   }
