@@ -2,7 +2,7 @@
 layout: post
 title:  2022年中国公有云市场大单追踪
 date:   2018-08-23 16:03:50 +0300
-image:  xian_food_01.jpg
+image:  shangwu_01.jpg
 tags:   [公有云, 大单追踪, 2022年]
 type: widescreen
 ---
