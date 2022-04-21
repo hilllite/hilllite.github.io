@@ -2,7 +2,7 @@
 layout: post
 title:  腾讯云大事记
 date:   2018-08-23 16:03:00 +0300
-image:  lantian_01.jpg
+image:  library_02.jpg
 tags:   [公有云, 腾讯云, 大事记]
 ---
 腾讯云。
