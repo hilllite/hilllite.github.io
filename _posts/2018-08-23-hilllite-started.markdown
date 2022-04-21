@@ -2,7 +2,7 @@
 layout: post
 title:  Hilllite 我们来了。
 date:   2018-08-23 16:05:55 +0300
-image:  autumn_01_sm.jpg
+image:  design_01.jpg
 tags:   [主题词, 开端]
 ---
 来秋是一个新的生活方式，追求简单，舒适与温暖，我们聚焦服装设计，坚持手工制作。
