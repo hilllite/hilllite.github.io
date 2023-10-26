@@ -1,10 +1,10 @@
 #-------------------------------
 # General Site Settings
 
-title: Hilllite 空山
-description: Hilllite 空山，这个世界太喧闹。 # this means to ignore newlines until "baseurl:"
+title: 空山 Hilllite
+description: 空山 Hilllite ，这个世界太喧闹。 # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
-site-name: Hilllite 空山
+site-name: 空山 Hilllite
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
