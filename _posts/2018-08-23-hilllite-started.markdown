@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  空山 Hilllite 我们来了。
+title:  空山 Hilllite 我们来了
 date:   2018-08-23 16:05:55 +0300
 image:  design_01.jpg
 tags:   [主题词, 开端]
