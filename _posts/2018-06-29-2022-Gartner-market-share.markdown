@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "我们对于职业的价值取向"
+title:  "对于职业的价值取向一些想法"
 date:   2018-05-29 18:05:55 +0300
 image:  new_journey.jpg
 tags:   [职业, 价值,]
