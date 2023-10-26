@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "2022年Gartner中国公有云市场占有率"
+title:  "我们对于职业的价值取向"
 date:   2018-05-29 18:05:55 +0300
 image:  new_journey.jpg
-tags:   [Gartner, 公有云, 市场占有率, 2022年]
+tags:   [职业, 价值,]
 ---
 这对我来说，一定是一个新的旅程。
 
